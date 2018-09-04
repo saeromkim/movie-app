@@ -21,8 +21,6 @@
   "repository": "https://github.com/saeromksr247/movie-app.git",
   "author": "<ksr24777@gmail.com>",
   "license": "MIT",
-  "homepage": "http://saeromksr247.github.io/movie-app",
-  "devDependencies": {
-    "gh-pages": "^1.2.0"
-  }
+  "homepage" : "http://saeromksr247.github.io/movie-app"
+
 }
