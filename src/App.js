@@ -40,7 +40,7 @@ _callApi = () => {
     const { movies } = this.state;
     return (
       <div className={movies ? "App" : "App--loading"}>
-        {movies ? this._renderMovies() : 'Loading'}
+        {movies ? this._renderMovies() : '영화 데이터를 불러오는 중이에요~'}
       </div>
     );
   }
