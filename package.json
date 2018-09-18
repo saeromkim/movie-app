@@ -18,9 +18,9 @@
     "deploy": "gh-pages -d build"
     },
   "main": "index.js",
-  "repository": "https://github.com/saeromksr247/movie-app.git",
+  "repository": "https://github.com/saeromkim/movie-app.git",
   "author": "<ksr24777@gmail.com>",
   "license": "MIT",
-  "homepage" : "http://saeromksr247.github.io/movie-app"
+  "homepage" : "http://saeromkim.github.io/movie-app"
 
 }
